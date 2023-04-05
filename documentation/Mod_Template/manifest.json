@@ -1,8 +1,9 @@
 {
-    "description": "MOD DESCRIPTION GOES HERE",
+    "description": "Jujutsu kaisen",
+
     "developer":
     {
-        "name": "DEVELOPER NAME GOES HERE"
+        "name": "Fade 2538"
     },
     "icons":
     {
@@ -163,7 +164,7 @@
             {
                 "dark":
                 {   
-                    "image": "wallpaper/dark.png",
+                    "image": "stretched-1920-1080-1185030",
                     "text_color": "#FFFFFF",
                     "text_shadow": "#757575"
                 },
