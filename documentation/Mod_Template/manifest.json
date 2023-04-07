@@ -119,9 +119,9 @@
                 },
                 "Wave":
                 {
-                    "animation":
+                    "animation": 
                     {
-                        "duration": 60,
+                        "duration": 120,
                         "steps": 3600
                     },
                     "path": "shader/wave.txt"
@@ -165,8 +165,8 @@
                 "dark":
                 {   
                     "image": "stretched-1920-1080-1185030",
-                    "text_color": "#FFFFFF",
-                    "text_shadow": "#757575"
+                    "text_color": "#00C7F0",
+                    "text_shadow": "#FFFFFF"
                 },
                 "light":
                 {
@@ -179,6 +179,6 @@
         },
         "schema_version": 1
     },
-    "name": "MOD NAME GOES HERE",
+    "name": "Mist",
     "version": "1.0"
 }
